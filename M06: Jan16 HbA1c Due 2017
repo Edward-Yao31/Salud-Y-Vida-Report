@@ -1,0 +1,11 @@
+Initiative
+(by or) Dictionary : WC_INITIATIVE; From 06-14-2016 to 07-14-2016; Days: Start date;	Code						
+SYV: MHP	142563996					
+SYV: PJD	142563995					
+SYV: SPH Brownsville	142563991					
+SYV: SPH2	142563993					
+AND	
+deleteIS NOT	
+Assessments/Surveys
+(by or) Dictionary : WC_SURVEY_QUESTION; Performed; , no value;	Code		Codes				
+6a. M06: HbA1c value:	17041	
