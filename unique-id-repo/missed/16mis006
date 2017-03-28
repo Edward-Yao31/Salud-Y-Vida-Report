@@ -1,0 +1,7 @@
+ID | Column | Main Filter | Sub-Filters | 
+-- | ------ | -------| -----------|
+16mis006| HbA1c June Missed | [HbA1c June Missed](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [M03: June16 HbA1c Due](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)| 
+-- |-- |-- |[M06: June16 HbA1c Due](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)|
+-- |-- |-- |[M09: June16 HbA1c Due](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)| 
+-- |-- |-- |[M12: June16 HbA1c Due](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)|
+-- |-- |-- |[M15: June16 HbA1c Due](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)|
