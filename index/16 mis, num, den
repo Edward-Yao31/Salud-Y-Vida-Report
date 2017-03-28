@@ -1,22 +1,3 @@
-### Recommendations
-
-Number | Recommendation | Link
------- | -------------- | ----
-1| A patient-centered communication style that incorporates patient preferences, assesses literacy and numeracy, and addresses cultural barriers to care should be used | [rec001] ()
-2| Treatment decisions should be timely and based on evidence-based guidelines that are tailored to individual patient preferences, prognoses, and comorbidities.
-3| Care should be aligned with components of the Chronic Care Model to ensure productive interactions between a prepared proactive practice team and an informed activated patient
-4 |When feasible, care systems should support team-based care, community involvement, patient registries, and decision support tools to meet patient needs
-5 |A major barrier to optimal care is a delivery system that is often fragmented, lacks clinical information capabilities, duplicates services, and is poorly designed for the coordinated delivery of chronic care. The Chronic Care Model (CCM) has been shown to be an effective framework for improving the quality of diabetes care (7).
-6| Providers should evaluate hyperglycemia and hypoglycemia in the context of food insecurity and propose solutions accordingly
-7| Providers should recognize that homelessness, poor literacy, and poor numeracy often occur with food insecurity, and appropriate resources should be made available for patients with diabetes.
-8| Intensive glucose control is not advised for the improvement of poor cognitive function in hyperglycemic individuals with type 2 diabetes.
-9| In individuals with poor cognitive function or severe hypoglycemia, glycemic therapy should be tailored to avoid significant hypoglycemia.
-10 | In individuals with diabetes at high cardiovascular risk, the cardiovascular benefits of statin therapy outweigh the risk of cognitive dysfunction.
-11 | If a second-generation antipsychotic medication is prescribed, changes in weight, glycemic control, and cholesterol levels should be carefully monitored and the treatment regimen should be reassessed.
-12| Patients with HIV should be screened for diabetes and prediabetes with a fasting glucose level before starting antiretroviral therapy and 3 months after starting or changing it. If initial screening results are normal, checking fasting glucose each year is advised. If prediabetes is detected, continue to measure levels every 3–6 months to monitor for progression to diabetes.
-
-
-
 ### Coming Soon
 
 Month | Missed | Numerator | Denominator | 
@@ -34,17 +15,3 @@ rec010|For all people, testing should begin at age 45 years. B|CATEGORIES OF INC
 rec011|If tests are normal, repeat testing carried out at a minimum of 3-year intervals is reasonable. C|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec011](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec011.md)
 rec012|To test for prediabetes, fasting plasma glucose, 2-h plasma glucose after 75-g oral glucose tolerance test, and A1C are equally appropriate.B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec012](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec012.md)
 
-Month | Missed | Numerator | Denominator |
---------- | ------------------- | ---------| ---- |
-rec001|Treatment decisions should be timely, rely on evidence-based guidelines, and be made collaboratively with patients based on individual preferences, prognoses, and comorbidities. B|Promoting Health and Reducing Disparities in Populations|[rec001](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)
-rec002|Providers should consider the burden of treatment and self-efficacy of patients when recommending treatments. E|Promoting Health and Reducing Disparities in Populations|[rec002](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec002.md)
-rec003|Treatment plans should align with the Chronic Care Model, emphasizing productive interactions between a prepared proactive practice team and an informed activated patient. A|Promoting Health and Reducing Disparities in Populations|[rec003](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec003.md)
-rec004|When feasible, care systems should support team-based care, community involvement, patient registries, and decision support tools to meet patient needs. B|Promoting Health and Reducing Disparities in Populations|[rec004](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec004.md)
-rec005|Providers should assess social context, including potential food insecurity, housing stability, and financial barriers, and apply that information to treatment decisions. A|TAILORING TREATMENT TO REDUCE DISPARITIES|[rec005] (https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec005.md)
-rec006|Patients should be referred to local community resources when available. B|TAILORING TREATMENT TO REDUCE DISPARITIES|[rec006](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec006.md)
-rec007|Patients should be provided with self-management support from lay health coaches, navigators, or community health workers when available. A|TAILORING TREATMENT TO REDUCE DISPARITIES|[rec007](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec007.md)
-rec008|Screening for prediabetes and risk for future diabetes with an informal assessment of risk factors or validated tools should be considered in asymptomatic adults. B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec008](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec008.md)
-rec009|Testing for prediabetes and risk for future diabetes in asymptomatic people should be considered in adults of any age who are overweight or obese (BMI ≥25 kg/m2 or ≥23 kg/m2 in Asian Americans) and who have one or more additional risk factors for diabetes. B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec009](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec009.md)
-rec010|For all people, testing should begin at age 45 years. B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec0010](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec010.md)
-rec011|If tests are normal, repeat testing carried out at a minimum of 3-year intervals is reasonable. C|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec011](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec011.md)
-rec012|To test for prediabetes, fasting plasma glucose, 2-h plasma glucose after 75-g oral glucose tolerance test, and A1C are equally appropriate.B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec012](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec012.md)
