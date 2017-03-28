@@ -1,1 +1,17 @@
-[
+### Recommendations
+
+Unique ID | Written Description | Category | Link |
+--------- | ------------------- | ---------| ---- |
+rec001|Treatment decisions should be timely, rely on evidence-based guidelines, and be made collaboratively with patients based on individual preferences, prognoses, and comorbidities. B|Promoting Health and Reducing Disparities in Populations|[rec001](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)
+rec002|Providers should consider the burden of treatment and self-efficacy of patients when recommending treatments. E|Promoting Health and Reducing Disparities in Populations|[rec002](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec002.md)
+rec003|Treatment plans should align with the Chronic Care Model, emphasizing productive interactions between a prepared proactive practice team and an informed activated patient. A|Promoting Health and Reducing Disparities in Populations|[rec003](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec003.md)
+rec004|When feasible, care systems should support team-based care, community involvement, patient registries, and decision support tools to meet patient needs. B|Promoting Health and Reducing Disparities in Populations|[rec004](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec004.md)
+rec005|Providers should assess social context, including potential food insecurity, housing stability, and financial barriers, and apply that information to treatment decisions. A|TAILORING TREATMENT TO REDUCE DISPARITIES|[rec005] (https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec005.md)
+rec006|Patients should be referred to local community resources when available. B|TAILORING TREATMENT TO REDUCE DISPARITIES|[rec006](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec006.md)
+rec007|Patients should be provided with self-management support from lay health coaches, navigators, or community health workers when available. A|TAILORING TREATMENT TO REDUCE DISPARITIES|[rec007](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec007.md)
+rec008|Screening for prediabetes and risk for future diabetes with an informal assessment of risk factors or validated tools should be considered in asymptomatic adults. B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec008](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec008.md)
+rec009|Testing for prediabetes and risk for future diabetes in asymptomatic people should be considered in adults of any age who are overweight or obese (BMI ≥25 kg/m2 or ≥23 kg/m2 in Asian Americans) and who have one or more additional risk factors for diabetes. B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec009](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec009.md)
+rec010|For all people, testing should begin at age 45 years. B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec0010](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec010.md)
+rec011|If tests are normal, repeat testing carried out at a minimum of 3-year intervals is reasonable. C|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec011](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec011.md)
+rec012|To test for prediabetes, fasting plasma glucose, 2-h plasma glucose after 75-g oral glucose tolerance test, and A1C are equally appropriate.B|CATEGORIES OF INCREASED RISK FOR DIABETES (PREDIABETES)|[rec012](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec012.md)
+
