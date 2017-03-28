@@ -1,5 +1,5 @@
 ID | Column | Filter | Sub-Filter | 
------ | ------ | ----------| ----------- |
+-- | ------ | -------| -----------|
 Jan|[16mis001](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [16num001](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [16den001](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)
 Feb|[16mis002](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [16num002](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [16den002](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)
 Mar|[16mis003](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [16num003](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [16den003](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)
