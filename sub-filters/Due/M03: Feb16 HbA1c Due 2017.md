@@ -1,11 +1,3 @@
-### Table
-Month | Missed | Numerator | Denominator | 
------ | ------ | ----------| ----------- |
-Jan|[16mis001](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [16num001](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md) | [16den001](https://github.com/johnnybender/adastandards2017/blob/master/recommendations/rec001.md)
-
-
-### Logic
-
 IS	
 IS	
 Initiative
