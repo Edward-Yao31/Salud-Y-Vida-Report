@@ -1,5 +1,3 @@
-### Jan
-
 
 Month | Missed | Numerator | Denominator | 
 ----- | ------ | ----------| ----------- |
