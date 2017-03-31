@@ -15,19 +15,3 @@ Oct|[16mis010](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/u
 Nov|[16mis011](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/missed/16mis011.md) | [16num011](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num011.md) | [16den011](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den011.md)
 Dec|[16mis012](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/missed/16mis012.md) | [16num012](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num012.md) | [16den012](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den012.md)
 
-
-### Percentage
-Month | Numerator | Denominator | 
------ | ----------| ----------- |
-Jan|[16num001](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num001.md) | [16den001](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den001.md)
-Feb|[16num002](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num002.md) | [16den002](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den002.md)
-Mar|[16num003](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num003.md) | [16den003](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den003.md)
-Apr|[16num004](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num004.md) | [16den004](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den004.md)
-May|[16num005](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num005.md) | [16den005](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den005.md)
-June|[16num006](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num006.md) | [16den006](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den006.md)
-July|[16num007](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num007.md) | [16den007](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den007.md)
-Aug|[16num008](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num008.md) | [16den008](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den008.md)
-Sept|[16num009](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num009.md) | [16den009](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den009.md)
-Oct|[16num010](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num010.md) | [16den010](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den010.md)
-Nov| [16num011](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num011.md) | [16den011](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den011.md)
-Dec|[16num012](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/num/16num012.md) | [16den012](https://github.com/Edward-Yao31/Salud-Y-Vida-Report/blob/master/unique-id-repo/den/16den012.md)
