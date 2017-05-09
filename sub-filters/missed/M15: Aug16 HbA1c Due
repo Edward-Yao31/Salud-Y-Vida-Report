@@ -1,6 +1,5 @@
-IS	
 Initiative
-(by or) Dictionary : WC_INITIATIVE; From 04-18-2015 to 05-18-2015; Days: Start date;	Code						
+(by or) Dictionary : WC_INITIATIVE; From 04-17-2016 to 05-17-2016; Days: Start date;	Code						
 SYV: SPH Brownsville	142563991					
 SYV: SPH2	142563993					
 SYV: PJD	142563995					
@@ -10,4 +9,4 @@ IS NOT
 Assessments/Surveys
 (by or) Mapping level : NO_MAPPING, Dictionary : WC_SURVEY_QUESTION; Performed; ;	Code		Codes				
 6a. M15: HbA1c value:	17146					
-Add NewCopyAddCancel
+
