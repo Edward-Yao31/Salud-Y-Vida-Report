@@ -6,7 +6,7 @@ Was used to create the framework for other branches describing Salud Y Vida Repo
 This branch describes the logic used to create Salud Y Vida Reports for 2016. 
 
 ##  2017-Salud-Y-Vida-Report Branch
-This branch is under construction and will describe the logic used to create Salud Y Vida Reports for 2017. 
+This branch describes the logic used to create Salud Y Vida Reports for 2017. 
 
 ### Index
 Contains the relationship between platform settings and the modular logic used to run data relative to a View on the Wellcentive Platform (data pertaining to a paticular month).
